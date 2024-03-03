@@ -6,7 +6,7 @@ from discord.ext.commands import context
 from multidict import CIMultiDictProxy
 
 # Set up your bot token
-TOKEN = os.environ['DISCORD_BOT_SECRET']
+TOKEN = 'MTIxMzY3MDE4NjI3MjQzMjE2OQ.GImyhp.7a8DTRheeDxQqlMOYO9tVL7qAAII1QQ5BQAnnM'
 
 # Set the URL to check
 GEAR_JSON_URL = 'https://splatoon3.ink/data/gear.json'
